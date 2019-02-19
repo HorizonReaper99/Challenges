@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    float: left;
+}
+
+img{
+    float: left;
+}
+
+section{
+    float: left;
+}
+
+h2{
+    text-align: center;
+}
