@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+
+img{
+    float:left; 
+}
+
+p{
+    color: white;
+    text-align: end;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h2{
+    color: white;
+    text-align: left;
+}
+
+h3{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+h6{
+    color:white;
+}
+
+h2{
+    color: white;
+    text-align: right;
+}
+
+th,td{
+    text-align: right;
+    color: white;
+    padding: 16px;
+}
+
+p1{
+    color:white;
+    text-align: left;
+}
+
+p2{
+    color: white;
+}
+
+p3{
+    color: white;
+    text-align: center;
+}
+
+h5{
+    color: white;
+}
